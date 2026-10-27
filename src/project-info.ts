@@ -1,0 +1,1 @@
+export const projectInfo = { slug:"skill-time-bank", title:"Skill Time Bank", summary:"A local exchange where people trade time and skills instead of money.", scope:"time-credit", locale:"en", direction:"ltr", firstTask:"Create a skill offer and exchange with agreed time credits.", entity:"exchanges" } as const;
