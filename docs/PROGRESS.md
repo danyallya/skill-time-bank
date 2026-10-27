@@ -8,4 +8,4 @@
 
 **Next:** Create a skill offer and exchange with agreed time credits.
 
-**Blockers:** GitHub connector cannot create repositories. Docker daemon and local cache need a live status check. Record exact checks and errors after every task.
+**Delivery:** Public repository created and foundation pushed to main. API check confirms public visibility. Docker daemon and local npm-cache connectivity still need a live check.
