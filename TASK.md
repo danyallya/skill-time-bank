@@ -18,4 +18,6 @@ The technical shell exists; the product workflow does not. Build the first safe,
 
 ## Status
 
-Not started. Use exchange/001-time-credit. After acceptance passes, update progress and set the next task.
+In progress. The safe first slice stores only a private skill-offer draft and proposed hours on this device. It does not publish offers, match people, accept requests, establish an agreement or create time balances. Moderation, identity and dispute paths are not designed, so real exchanges remain gated. The validation, empty, error and deletion states from TIME-CREDIT-002 may be completed alongside this slice.
+
+Next: TIME-CREDIT-003 PostgreSQL migrations and repository tests, still without personal or exchange data. Define moderation, identity, coercion prevention and disputes before adding any interaction between people.
