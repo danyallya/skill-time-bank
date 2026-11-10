@@ -7,3 +7,4 @@
 - Define export, deletion, retention, access logs and incident response before launch.
 - Domain guardrail: Prevent coercion and unsafe requests; define moderation, identity and dispute paths.
 - Review threat model, roles and offline-device recovery before launch.
+- Current drafts live in browser IndexedDB without application-level encryption or access control. Do not enter personal details. Drafts remain until deleted in the UI or the browser profile is cleared; browser backups and secure erasure are outside the current guarantee.

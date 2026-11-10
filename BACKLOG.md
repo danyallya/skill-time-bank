@@ -5,7 +5,7 @@ Prioritize user risk and evidence over polish. Estimates are focused engineering
 ## P0 — safe foundation
 
 - [ ] TIME-CREDIT-001 — Create a skill offer and exchange with agreed time credits.
-- [ ] TIME-CREDIT-002 — Validate exchanges and add empty/error/deletion states.
+- [x] TIME-CREDIT-002 — Validate private drafts and add empty/error/deletion states.
 - [ ] TIME-CREDIT-003 — Add PostgreSQL migrations and repository tests.
 - [ ] TIME-CREDIT-004 — Specify offline conflicts, retry, duplicate-submit and recovery.
 
